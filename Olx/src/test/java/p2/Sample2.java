@@ -7,6 +7,6 @@ public class Sample2 {
 	}
 public void f1()
 {
-	
+	System.out.println("f1 method added");
 }
 }
