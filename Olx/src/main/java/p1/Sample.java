@@ -7,5 +7,6 @@ public void display()
 	System.out.println("Welcome to git hub");
 	System.out.println("Hello");
 	System.out.println("Great!");
+	System.out.println("Welcome");
 }
 }
