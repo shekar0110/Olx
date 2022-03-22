@@ -5,5 +5,8 @@ public class Sample2 {
 	{
 		System.out.println("show line added");
 	}
-
+public void s()
+{
+	
+}
 }
